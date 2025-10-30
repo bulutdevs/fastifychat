@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">💡 About</h3>
+<h3 align="center">About</h3>
 <p align="center">
 This repository provides a lightweight web backend built with Fastify. <br>
 It includes route handling, cookie support, and caching functionalities for building scalable web applications or APIs.
@@ -20,7 +20,7 @@ It includes route handling, cookie support, and caching functionalities for buil
 
 ---
 
-<h3 align="center">⚙️ Installation</h3>
+<h3 align="center">Installation</h3>
 <ol>
 <li>Clone the repository:<br>
 <pre>git clone https://github.com/bulutdevs/fastifychat.git
@@ -36,7 +36,7 @@ cd fastifychat</pre></li>
 
 ---
 
-<h3 align="center">📡 Available Routes</h3>
+<h3 align="center">Available Routes</h3>
 <ul>
 <li><code>/</code> → Main route</li>
 <li><code>/newCode</code> → Create new code</li>
@@ -50,7 +50,7 @@ cd fastifychat</pre></li>
 
 ---
 
-<h3 align="center">🧩 Dependencies</h3>
+<h3 align="center">Dependencies</h3>
 <ul>
 <li>Node.js</li>
 <li>Fastify</li>
@@ -63,7 +63,7 @@ cd fastifychat</pre></li>
 
 ---
 
-<h3 align="center">💻 Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 </p>
